@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --template=material --enable_nbextensions=True notebooks/IACameroonNationalAnthem.ipynb
+web: voila --port=$PORT --no-browser --template=material --enable_nbextensions=True IACameroonNationalAnthem.ipynb

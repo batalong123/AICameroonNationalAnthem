@@ -1,0 +1,15 @@
+voila
+voila-material
+pandas==1.2.2
+gensim==3.8.3
+matplotlib==3.3.4
+numpy==1.20.1
+wordcloud==1.8.1
+imageio==2.9.0
+spacy_nightly==3.0.0rc5
+statsmodels==0.12.2
+nltk==3.5
+seaborn==0.11.1
+scikit_learn==0.24.2
+spacy==3.1.2
+
